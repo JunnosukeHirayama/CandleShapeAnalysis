@@ -41,8 +41,8 @@
 NumPy および Matplotlib がインストールされているPython環境が必要です。
 
 ### 実行手順
-1. 本リポジトリの `candle_sim.py` のコードをすべてコピーします。
-2. お好みのエディタ（VS Code, Jupyter Notebook 等）に貼り付けます。
+1. 本リポジトリの `code.py` のコードをすべてコピーします。
+2. お好みのエディタ（VS Code等）に貼り付けます。
 3. 以下の必須ライブラリがインストールされていることを確認します。
    ```bash
    pip install numpy matplotlib
